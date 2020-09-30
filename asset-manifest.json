@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.2c4d9864.chunk.js": "/React-Posts/static/js/0.2c4d9864.chunk.js",
+    "static/js/0.2c4d9864.chunk.js.map": "/React-Posts/static/js/0.2c4d9864.chunk.js.map",
+    "main.css": "/React-Posts/static/css/main.b79f8104.chunk.css",
+    "main.js": "/React-Posts/static/js/main.42b92b55.chunk.js",
+    "main.js.map": "/React-Posts/static/js/main.42b92b55.chunk.js.map",
+    "runtime-main.js": "/React-Posts/static/js/runtime-main.0cd3970a.js",
+    "runtime-main.js.map": "/React-Posts/static/js/runtime-main.0cd3970a.js.map",
+    "static/css/3.d9ad5f5c.chunk.css": "/React-Posts/static/css/3.d9ad5f5c.chunk.css",
+    "static/js/3.4519aa6d.chunk.js": "/React-Posts/static/js/3.4519aa6d.chunk.js",
+    "static/js/3.4519aa6d.chunk.js.map": "/React-Posts/static/js/3.4519aa6d.chunk.js.map",
+    "static/js/4.5a680a18.chunk.js": "/React-Posts/static/js/4.5a680a18.chunk.js",
+    "static/js/4.5a680a18.chunk.js.map": "/React-Posts/static/js/4.5a680a18.chunk.js.map",
+    "static/js/5.f1d784c2.chunk.js": "/React-Posts/static/js/5.f1d784c2.chunk.js",
+    "static/js/5.f1d784c2.chunk.js.map": "/React-Posts/static/js/5.f1d784c2.chunk.js.map",
+    "static/js/6.bc2453ab.chunk.js": "/React-Posts/static/js/6.bc2453ab.chunk.js",
+    "static/js/6.bc2453ab.chunk.js.map": "/React-Posts/static/js/6.bc2453ab.chunk.js.map",
+    "static/js/7.1ee9d53d.chunk.js": "/React-Posts/static/js/7.1ee9d53d.chunk.js",
+    "static/js/7.1ee9d53d.chunk.js.map": "/React-Posts/static/js/7.1ee9d53d.chunk.js.map",
+    "static/js/8.aed618ce.chunk.js": "/React-Posts/static/js/8.aed618ce.chunk.js",
+    "static/js/8.aed618ce.chunk.js.map": "/React-Posts/static/js/8.aed618ce.chunk.js.map",
+    "index.html": "/React-Posts/index.html",
+    "precache-manifest.e309a20771c597dcdd27ab5bd69fafb8.js": "/React-Posts/precache-manifest.e309a20771c597dcdd27ab5bd69fafb8.js",
+    "service-worker.js": "/React-Posts/service-worker.js",
+    "static/css/3.d9ad5f5c.chunk.css.map": "/React-Posts/static/css/3.d9ad5f5c.chunk.css.map",
+    "static/css/main.b79f8104.chunk.css.map": "/React-Posts/static/css/main.b79f8104.chunk.css.map",
+    "static/js/0.2c4d9864.chunk.js.LICENSE.txt": "/React-Posts/static/js/0.2c4d9864.chunk.js.LICENSE.txt",
+    "static/js/3.4519aa6d.chunk.js.LICENSE.txt": "/React-Posts/static/js/3.4519aa6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd3970a.js",
+    "static/css/3.d9ad5f5c.chunk.css",
+    "static/js/3.4519aa6d.chunk.js",
+    "static/css/main.b79f8104.chunk.css",
+    "static/js/main.42b92b55.chunk.js"
+  ]
+}
